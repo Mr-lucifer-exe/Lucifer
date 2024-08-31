@@ -11,13 +11,12 @@ CYAN='\e[36m'
 WHITE='\e[37m'
 NC='\e[0m'
 echo""
-echo -e "${RED}  _     _         ______ _    _ _______ ______   _____  ______  _____        ______   "
-echo " | |   | |  /\   / _____) |  / |_______|_____ \ / ___ \|  ___ \(_____)  /\  |  ___ \  "
-echo " | |__ | | /  \ | /     | | / / _       _____) ) |   | | |   | |  _    /  \ | |   | | "
-echo " |  __)| |/ /\ \| |     | |< < | |     (_____ (| |   | | |   | | | |  / /\ \| |   | | "
-echo " | |   | | |__| | \_____| | \ \| |_____      | | |___| | |   | |_| |_| |__| | |   | | "
-echo " |_|   |_|______|\______)_|  \_)\______)     |_|\_____/|_|   |_(_____)______|_|   |_| "
-echo -e "${RED}                                                      ~ Tools for Hacking by Mr. Lucifer ${NC}"
+echo -e "${RED}  _               _  __
+echo " | |   _   _  ___(_)/ _| ___ _ __
+echo " | |  | | | |/ __| | |_ / _ \ '__|
+echo " | |__| |_| | (__| |  _|  __/ |
+echo " |_____\__,_|\___|_|_|  \___|_|
+echo -e "${RED}                    ~ Tools for Hacking by Mr. Lucifer ${NC}"
 echo ""
 echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | Github.com/thehackingsage ${NC} "
 echo ""
