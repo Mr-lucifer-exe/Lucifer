@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Mr-lucifer-exe/lucifer/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/Mr-lucifer-exe/lucifer/blob/fd83319bc0c648b3509d6b32f01001be8d2c5212/logo.png?raw=true" /></p>
 <br>
 <p align="center">***Pentesing Tools That All Hacker Needs.***</p>
 
